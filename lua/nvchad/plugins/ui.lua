@@ -9,7 +9,7 @@ return {
   },
 
   {
-    "NvChad/ui",
+    "beyondlex/ui",
     branch = "v2.5",
     lazy = false,
     config = function()
