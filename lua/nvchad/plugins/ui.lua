@@ -11,7 +11,7 @@ return {
   {
     "beyondlex/ui",
     branch = "v2.5",
-    commit = "63416fd",
+    commit = "85849bb",
     lazy = false,
     config = function()
       require "nvchad"
